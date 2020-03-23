@@ -1,5 +1,8 @@
 # PSoC 6 MCU: Empty Application Template
 
+Introduce a spurious change so we can play with PRs and files attached to same.
+
+
 This is a minimal starter application template for PSoC® 6 MCU devices. 
 
 For instructions on modifying and using this application template to create applications, follow steps from the section **My First PSoC 6 MCU Design Using ModusToolbox IDE** in the **[AN228571](https://www.cypress.com/AN228571) – Getting Started with PSoC 6 MCU on ModusToolbox.**
